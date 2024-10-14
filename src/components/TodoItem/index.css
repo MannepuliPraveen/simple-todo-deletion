@@ -1,0 +1,18 @@
+.bg {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.delete {
+  color: #ff0b37;
+  background-color: Transparent;
+  border: 1px solid #ff0b37;
+  margin-right: 0px;
+}

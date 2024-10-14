@@ -1,0 +1,25 @@
+.app-container {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  align-items: Center;
+  height: 100vh;
+}
+.todosContainer {
+  background-color: #ffffff;
+  width: 90%;
+  border-radius: 20px;
+}
+.heading {
+  text-align: center;
+  color: #ff8542;
+  font-size: 40px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.itemsContainer {
+  display: flex;
+  flex-direction: column;
+
+  padding:50px;
+}
